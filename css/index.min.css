@@ -16,6 +16,16 @@
   font-size: 22px;
   border-bottom: 1px solid gray;
 }
+.box .first .yuan {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: gray;
+  position: absolute;
+  right: 260px;
+  top: 5px;
+  font-size: 12px;
+}
 .box input {
   height: 30px;
   margin-top: 20px;
